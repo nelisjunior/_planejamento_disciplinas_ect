@@ -77,7 +77,7 @@ Caso queira contribuir, relatar problemas ou propor melhorias:
 
 Este projeto está em desenvolvimento contínuo. Atualizações futuras podem incluir:
 - Compatibilidade total com Google Sheets
-- Suporte multiênfase
+- Suporte a outras multiênfases
 - Interface visual guiada
 
 Contribuições são bem-vindas via pull request ou issues neste repositório.
