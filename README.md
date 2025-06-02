@@ -1,10 +1,13 @@
 # MODELO_v2.5.1_Planejamento_disciplinas_ECT
 
+[Veja o Modelo](./MODELO_v2.5.1_Planejamento_disciplinas_ECT.xlsx)
+
 ## 📌 Descrição Geral
 
 Esta planilha tem como objetivo fornecer suporte técnico e prático ao **planejamento acadêmico individualizado** de estudantes do **Bacharelado em Ciência e Tecnologia (BCT)** da **UFRN**, com atenção especial à organização da grade curricular e definição das Ênfases (a exemplo Negócios Tecnológicos).
 
 O modelo é de **uso livre para fins educacionais**, desde que respeitada a atribuição de autoria conforme a licença descrita abaixo.
+
 
 ---
 ## 🕰️ Histórico do Projeto
